@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-react-website/static/css/main.4253d93d.css",
+    "main.js": "/my-react-website/static/js/main.3c85ee86.js",
+    "static/js/787.633816a4.chunk.js": "/my-react-website/static/js/787.633816a4.chunk.js",
+    "static/media/web3.png": "/my-react-website/static/media/web3.474d2f62046d80c610d2.png",
+    "static/media/web2.png": "/my-react-website/static/media/web2.b8de62551b5f41a77356.png",
+    "static/media/web1.png": "/my-react-website/static/media/web1.b81ae95cc95d487b20fc.png",
+    "static/media/web4.png": "/my-react-website/static/media/web4.2904c3034a49de55a9b1.png",
+    "static/media/web6.png": "/my-react-website/static/media/web6.e4ab20a7ce79adbcbf79.png",
+    "static/media/web5.png": "/my-react-website/static/media/web5.9e9578f2477312721d00.png",
+    "static/media/Shubham-t.png": "/my-react-website/static/media/Shubham-t.0d533447e74506bd342f.png",
+    "static/media/Burtons.otf": "/my-react-website/static/media/Burtons.c46a2405716f236c4a9a.otf",
+    "static/media/design.png": "/my-react-website/static/media/design.9e6ea8290691c7efe827.png",
+    "static/media/code.png": "/my-react-website/static/media/code.f4f54b48494bb8e30d1a.png",
+    "index.html": "/my-react-website/index.html",
+    "main.4253d93d.css.map": "/my-react-website/static/css/main.4253d93d.css.map",
+    "main.3c85ee86.js.map": "/my-react-website/static/js/main.3c85ee86.js.map",
+    "787.633816a4.chunk.js.map": "/my-react-website/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4253d93d.css",
+    "static/js/main.3c85ee86.js"
+  ]
+}
